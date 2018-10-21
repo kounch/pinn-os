@@ -11,6 +11,10 @@
 		{
 			"name" : "Matt Huisman",
 			"url"  : "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
+		},
+		{
+			"name" : "kounch",
+			"url"  : "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/os_list_v3.json"
 		}
 	]
 }
