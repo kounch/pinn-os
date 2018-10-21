@@ -3,7 +3,7 @@
         {
             "label": "boot_zx",
             "filesystem_type":              "FAT",
-            "partition_size_nominal":       32,
+            "partition_size_nominal":       64,
             "want_maximised":               false,
             "uncompressed_tarball_size":    4,
             "mkfs_options": "-F 32",

@@ -20,7 +20,7 @@
             "tarballs": [
                                 "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/boot_zx.tar.xz"
             ],
-            "nominal_size": 32
+            "nominal_size": 64
         }
   ]
 }
