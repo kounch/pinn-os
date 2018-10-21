@@ -1,0 +1,13 @@
+{
+    "partitions":   [
+        {
+            "label": "boot_zx",
+            "filesystem_type":              "FAT",
+            "partition_size_nominal":       32,
+            "want_maximised":               false,
+            "uncompressed_tarball_size":    4,
+            "mkfs_options": "-F 32",
+            "tarball":                      "boot_zx.tar.xz"
+        }
+    ]
+}

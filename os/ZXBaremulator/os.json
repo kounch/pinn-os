@@ -1,0 +1,17 @@
+{
+    "name":	    "ZXBaremulator",
+    "description":  "ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers",
+    "release_date": "2018-10-20",
+    "feature_level": 0,
+    "supported_hex_revisions": "1040,1041,2082",    
+    "supported_models": [
+        "Pi 2",
+        "Pi 3"
+    ],
+    "version":	"20181020",
+    "kernel":	"No",
+    "url":      "http://zxmini.speccy.org",
+    "group":    "Games",
+    "username": "none",
+    "password": "none"
+}

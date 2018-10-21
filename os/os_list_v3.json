@@ -804,6 +804,28 @@
                                "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/storage.tar.xz"
             ],
             "nominal_size": 541
+        },
+        {
+            "os_name":	    "ZXBaremulator",
+            "description":  "ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers",
+            "release_date": "018-10-20",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2", 
+                "Pi 3"
+            ],            
+            "url":      "http://zxmini.speccy.org",
+            "group":    "Games",
+            "os_info":          "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/os.json",
+            "partitions_info":  "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/partitions.json",
+            "icon":             "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/ZXBaremulator.png",
+            "marketing_info":   "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/marketing.tar",
+            "partition_setup":  "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/partition_setup.sh",
+            "tarballs": [
+                                "https://raw.githubusercontent.com/kounch/pinn-os/master/os/ZXBaremulator/boot_zx.tar.xz"
+            ],
+            "nominal_size": 32
         }
   ]
 }
