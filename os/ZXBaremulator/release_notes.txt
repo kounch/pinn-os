@@ -3,3 +3,6 @@
 
 20181112:
 - Upgraded to 3.H.8.std version
+
+20181125:
+- Current packages as of 20181125.
