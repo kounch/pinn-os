@@ -6,3 +6,6 @@
 
 20181125:
 - Current packages as of 20181125.
+
+20181129:
+- Current packages as of 20181129. Fix for Recreated ZX Spectrum Keyboard.

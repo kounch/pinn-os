@@ -808,7 +808,7 @@
         {
             "os_name":	    "ZXBaremulator",
             "description":  "ZX Spectrum 48K/128K/+2A bare-metal emulator for Raspberry Pi",
-            "release_date": "2018-11-25",
+            "release_date": "2018-11-29",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
