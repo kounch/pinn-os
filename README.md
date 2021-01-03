@@ -3,7 +3,7 @@ v2.8 Latest
 
 ---
 
-To add ZX Baremulator installation, put these in your recovery.cmdline:
+To add ZX Baremulator installation, put this in your recovery.cmdline:
 
     reserve=+128 repo_list=http://raw.githubusercontent.com/kounch/pinn-os/master/os/repo_list.json
 
