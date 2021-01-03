@@ -11,4 +11,4 @@ This will reserve 128 extra MB of space in your recovery partition, and add ZX B
 
 Afer installation, create "Tapes" directory in the recovery partition and copy all of your tape files inside.
 
-ZXBaremulator (http://zxmini.speccy.org) Copyright 2017-2018 José Luis Sánchez (jspeccy at gmail dot com) - All rights reserved
+ZXBaremulator (http://zxmini.speccy.org) Copyright 2017-2020 José Luis Sánchez (jspeccy at gmail dot com) - All rights reserved (2020/01/20)
